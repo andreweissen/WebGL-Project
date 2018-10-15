@@ -1,0 +1,5 @@
+### CMSC 405 WebGL Project ###
+
+#### Overview ####
+
+This project, the final project in the CMSC 405 project series, makes use of the WebGL API and the GLSL shader language in the construction of a 3D scene composed of multiple light sources and at least ten (10) distinct scene objects. It displays a scene consisting of multiple types of polyhedron derived from the [3D Geometry Primitives for WebGL](https://github.com/nickdesaulniers/prims) repository by Nick Desaulniers (nick@mozilla.com) orbiting around a center sun at a constant rate while rotating about their own x, y, and z-axes at different rates. Additionally, as per the previous Three.js project, each object has an individual shininess level related to specular lighting color which allows for some variation in object surface reflection. The completed project was submitted on October 14, 2018 and received a grade of 100%. The package itself contains images of the program in action, documentation files containing a more detailed decription of the project goals, and the six JavaScript, CSS, and HTML source files themselves.
